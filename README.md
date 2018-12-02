@@ -2,6 +2,8 @@
 
 *This repository is based on [hibernate-example](https://github.com/payara/Payara-Examples/tree/master/javaee/hibernate-example) Payara Micro official examples.*
 
+This repository reproduces the problem from Payara issue: https://github.com/payara/Payara/issues/3462
+
 
 Steps to reproduce problem:
 
